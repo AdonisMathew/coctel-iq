@@ -1,0 +1,38 @@
+# Build results
+[Bb]in/
+[Oo]bj/
+[Oo]ut/
+
+# Visual Studio / Rider / VS Code
+.vs/
+.idea/
+.vscode/
+*.user
+*.suo
+
+# NuGet
+*.nupkg
+**/[Pp]ackages/*
+!**/[Pp]ackages/build/
+
+# Configuración local con secretos
+appsettings.Development.json
+appsettings.Local.json
+*.env
+.env
+
+# Logs
+*.log
+
+# Base de datos local
+*.db
+*.sqlite
+
+# Frontend (por si usamos npm)
+node_modules/
+dist/
+.env.local
+
+# OS
+.DS_Store
+Thumbs.db
