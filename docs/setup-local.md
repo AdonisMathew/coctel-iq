@@ -21,7 +21,7 @@ git push -u origin main
 
 ## 2. Crear el proyecto ASP.NET Core
 
-Requisitos: [.NET 8 SDK](https://dotnet.microsoft.com/download) instalado.
+Requisitos: [.NET 10 SDK](https://dotnet.microsoft.com/download) instalado.
 
 ```bash
 cd backend

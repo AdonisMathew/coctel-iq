@@ -3,7 +3,7 @@
 > Una plataforma estilo Duolingo para aprender bartending: cócteles, técnicas y teoría de coctelería, con lecciones, quizzes y gamificación.
 
 ![Status](https://img.shields.io/badge/status-en%20desarrollo-yellow)
-![.NET](https://img.shields.io/badge/.NET-8-512BD4)
+![.NET](https://img.shields.io/badge/.NET-10-512BD4)
 ![License](https://img.shields.io/badge/license-MIT-blue)
 
 ## 📖 Sobre el proyecto
@@ -26,7 +26,7 @@ Es también un proyecto de portfolio: documentado, versionado y desarrollado sig
 
 | Capa | Tecnología |
 |---|---|
-| Backend | ASP.NET Core 8 Web API (C#) |
+| Backend | ASP.NET Core 10 Web API (C#) |
 | ORM | Entity Framework Core |
 | Base de datos | PostgreSQL |
 | Autenticación | JWT + ASP.NET Identity |
